@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.hosipital.demos.web;
+package com.example.hosipital.entity;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
